@@ -1,6 +1,6 @@
 lastdigit = 7
 
-lastdigitplusone = 8
+lastdigitplusone = lastdigit + 1
 
 console.log("Next integer of my last digit of my id : ", lastdigitplusone)
 
